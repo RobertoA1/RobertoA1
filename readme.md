@@ -54,7 +54,7 @@ Soy estudiante de **Ingeniería de Sistemas** en la Universidad Nacional de Truj
 ## 🎓 Formación y voluntariado
 
 - 🎓 **Ingeniería de Sistemas** – Universidad Nacional de Trujillo (2023–2027).  
-- 💼 **Miembro del Equipo de TI – INCUBUNT**: desarrollo de plataformas internas, automatización de actas y charlas sobre seguridad en Google Workspace.  
+- 💼 **Director del Área de TI – INCUBUNT**: desarrollo de plataformas internas, automatización de actas y charlas sobre seguridad en Google Workspace.  
 - 🤝 **Voluntariado UNT**: apoyo en actividades sociales y formación en primeros auxilios.
 
 ---
