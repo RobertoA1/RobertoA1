@@ -11,7 +11,7 @@ Soy estudiante de **Ingeniería de Sistemas** en la Universidad Nacional de Truj
 
 ## 🧑‍💻 Sobre mí
 
-- Actualmente curso el **sexto ciclo** de Ingeniería de Sistemas.  
+- Actualmente curso el **octavo ciclo** de Ingeniería de Sistemas.  
 - He trabajado en equipos de **5 a 8 personas** desarrollando aplicaciones web y plataformas internas para la universidad.  
 - Me interesan especialmente:
   - Desarrollo web con **Laravel**, **React** y **Tailwind CSS**.
@@ -22,7 +22,7 @@ Soy estudiante de **Ingeniería de Sistemas** en la Universidad Nacional de Truj
 
 ## 🚀 Lo que hago
 
-- Desarrollo de aplicaciones web con **PHP (Laravel)**, **Java**, **Python** y **JavaScript**.
+- Desarrollo de aplicaciones web con **PHP (Laravel)**, **TypeScript y JavaScript**, **Java**, **Python** y **JavaScript**.
 - Diseño y consumo de bases de datos en **MySQL**, **PostgreSQL** y **SQL Server**.
 - Automatización de flujos y tareas con **n8n** y **Google Apps Script**.
 - Participación en proyectos de **ciberseguridad**, análisis de vulnerabilidades y buenas prácticas de seguridad.
